@@ -1,0 +1,22 @@
+collection_data,sample,orig_sample,age,sex,breed,zip,CIV_vaccine_status,date_of_last_CIV_vaccine,positive_status,ct
+2/2/23,C1,985331,9.5,MC,Golden Retriever,19440,Vaccinated,Unknown,Moderate positive for Influenza A via Cornell PCR 2/6/23,17.3
+11/24/22,C2,95378017,6,MC,Mixed Breed,19146,No record,No record,No data,22.4
+3/15/23,C3,983368,14,FS,Labradoodle,19147,Vaccinated,9/12/18,"Suspect infleunza infection in Feb. 2022, negative for canine infleunza via rapid test 3/15/23",36.1
+2/15/23,C4,959618,2,MC,Goldendoodle,19096,No record,No record,Positive for Influenza A via nasal swab 2/15/23,27.6
+3/13/23,C5,986437,12,FS,Mixed Breed,19078,Vaccinated,Not up to date,Positive for Influenza via Accula Rapid Flu test 3/13/23,26.8
+2/3/23,C6,985384,13,FS,Labrador Retriever,19010,No record,No record,High positive for Influenza via Cornell PCR 2/4/23,22.9
+4/13/23,C7,987353,9 months,F ,Golden Retriever,8009,No record,No record,Positive for Influenza 4/13/23,23
+3/22/23,C8,888386,8,MC,Vizsla,19096,Not vaccinated,NA,Positive for Influenza 3/22/23,29.6
+3/5/23,C9,966059,2.5,FS,Mixed Breed,19146,Not vaccinated,Not vaccinated,Positive for Influenza via Rapid PCR 3/5/23,31
+4/13/23,C10,987352,3,MC,Mixed Breed,8009,No record,No record,Positive for Influenza 4/13/23,31.6
+2/24/23,C11,985945,8,FS,American Eskimo Dog,19146,Vaccinated,Unknown,Positive for Influenza via Accula Flu A Rapid PCR 2/24/23,28.9
+2/1/23,C12,985745,4,MC,Bichon Frise,19103,Not vaccinated,NA,Positive for Influenza via Accula rapid test 2/17/23,24.4
+3/13/23,C13,956324,6,MC,Labrador Retriever,19004,No record,No record,Positive for Influenza via Rapid Flu test 3/13/23,30.9
+2/1/23,C14,979212,1.5,FS,American Pit Bull Terrier,19148,No record,No record,Positive for Influenza via Rapid Flu test 2/24/23,25.7
+3/13/23,C15,956324,6,MC,Labrador Retriever,19004,No record,No record,Positive for Influenza via Rapid Flu test 3/13/23,29.1
+2/1/23,C16,985487,10,FS,Labrador Retriever,19103,No record,No record,Moderate positive for Influenza A via Cornell PCR 2/7/23,26.3
+2/6/23,C17,"985419 ""Simi"" Gornish",2,M ,Goldendoodle,19004,Vaccinated,11/14/22,Positive for Influenza A via point of care Influenza test 2/6/23,15.3
+10/1/23,C18,947664 (55691-2394),7,FS,German Shepherd,19153,No record,No record,Positive for Canine Influenza via PCR 10/4/23,31.5
+10/1/23,C19,986595 (55767-23),5,MC,Labrador Retriever,19153,No record,No record,Positive for Canine Influenza via PCR 10/4/23,27
+10/3/23,C20,927923 (55648-23),8,FS,German Shepherd,19106,Vaccinated,5/30/18,Positive for Canine Influenza via PCR 10/2/23,38.4
+8/1/23,C21,991069 (45340-23),8,MC,Mixed Breed,19426,No record,No record,Positive for Canine Influenza via PCR 8/11/23,NA
