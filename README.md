@@ -3,7 +3,7 @@ Repo for within-host evolution analyses on canine H3N2 sequences collected from 
 
 ## Running the code:
 
-### Numpy has compatibility issues with scipy so before running any of the analysis scripts you need to create a conda environment with the correct versions.
+### NumPy has compatibility issues with newer versions of SciPy so before running any of the analysis notebooks you need to create a conda environment with the compatible versions.
 
 First, git clone this repo:
 
