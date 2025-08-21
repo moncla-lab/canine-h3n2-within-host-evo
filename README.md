@@ -20,3 +20,7 @@ Create a conda environment with the provided configuration file:
 Activate the conda environment:
 
 		conda activate within-host-prelim-analysis
+		
+Run the notebooks by running jupyter lab in your cli:
+	
+		jupyter lab
